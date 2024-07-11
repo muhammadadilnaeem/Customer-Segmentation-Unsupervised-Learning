@@ -68,7 +68,7 @@ To reproduce the analysis, follow these steps:
 
 3. Run the notebooks or scripts to perform the analysis:
    ```bash
-   jupyter notebook notebooks/data_exploration.ipynb
+   jupyter notebook notebook/data_exploration.ipynb
    ```
 
 ## Contributing
