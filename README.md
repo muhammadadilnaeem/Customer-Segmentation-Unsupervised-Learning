@@ -48,7 +48,7 @@ Explored different epsilon values for density-based clustering and identified th
 ## **Project Structure**
 
 - `data/`: Contains the dataset used for the analysis.
-- `notebooks/`: Jupyter notebooks with the data exploration, cleaning, and clustering models.
+- `notebook/`: Jupyter notebooks with the data exploration, cleaning, and clustering models.
 
 
 ## Usage
