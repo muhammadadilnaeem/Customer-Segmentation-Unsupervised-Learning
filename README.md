@@ -58,7 +58,7 @@ To reproduce the analysis, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/customer-segmentation-clustering.git
-   cd customer-segmentation-clustering
+   cd Customer-Segmentation-Unsupervised-Learning
    ```
 
 2. Install the required dependencies:
