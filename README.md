@@ -77,6 +77,6 @@ If you have suggestions for improvements or would like to contribute, feel free 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE]([LICENSE](https://github.com/muhammadadilnaeem/Customer-Segmentation-Unsupervised-Learning/blob/main/LICENSE)) file for details.
+This project is licensed under the Apache License. See the [LICENSE]([LICENSE](https://github.com/muhammadadilnaeem/Customer-Segmentation-Unsupervised-Learning/blob/main/LICENSE)) file for details.
 
 ---
